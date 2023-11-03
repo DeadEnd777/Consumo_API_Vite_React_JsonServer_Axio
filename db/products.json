@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Laptop",
+      "description": "Laptop Gaming",
+      "price": 1000,
+      "inStock": true
+    },
+    {
+      "id": 3,
+      "name": "Televisor",
+      "description": "Televisor 4K de 55 pulgadas",
+      "price": 1200,
+      "inStock": true
+    },
+    {
+      "id": 4,
+      "name": "Tablet",
+      "description": "Tablet compacta y potente",
+      "price": 500,
+      "inStock": false
+    },
+    {
+      "id": 5,
+      "name": "Auriculares inalámbricos",
+      "description": "Auriculares con cancelación de ruido",
+      "price": 150,
+      "inStock": true
+    }
+  ]
+}
